@@ -33,7 +33,7 @@ function Login({handleLogin}) {
                 <input type="password" className="form-control" value={password} onChange={(e) => setPassword(e.target.value)}/>
               </div>
               <div className='text-center mb-4'>
-                <button type="submit" className="btn btn-primary letraboton" onClick={handleSubmit }>Iniciar sesión</button>
+                <button type="submit" className="btn letraboton" onClick={handleSubmit }>Iniciar sesión</button>
               </div>
             </form>
           </div>

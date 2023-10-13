@@ -4,12 +4,17 @@
 .cardEnd{
   height: 520px;
   font-size: 20px;
-  background-color: rgba(177, 204, 255, 0.854);
+  background-color: blue;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
-  color: black;
+  color: white;
 }
 .letraboton{
   font-size: 20px;
+  color: blue;
+  background-color: white;
+}
+.letraboton:hover{
+  background-color: rgb(75, 96, 255);
 }
 .ma{
   margin-top: 10%;
