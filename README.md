@@ -16,5 +16,4 @@ Menú principal
 )
 ![Imagen de ejemplo](![MenúMovil](https://github.com/Montalvo566/AYMR_RepositorioReact/assets/102632503/ebb0ad85-3614-4458-b597-0d1d299e7089)
 )
-![Imagen de ejemplo](![MenúNormal](https://github.com/Montalvo566/AYMR_RepositorioReact/assets/102632503/6312bfe6-bbe9-436a-9bb7-959e95438bd7)
-)
+![Imagen de ejemplo](https://github.com/Montalvo566/AYMR_RepositorioReact/issues/1#issue-2020129414)
